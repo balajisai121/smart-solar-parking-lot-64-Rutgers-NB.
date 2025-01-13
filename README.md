@@ -63,15 +63,7 @@ The app was developed using Agile methodologies, with iterative sprints focusing
 - R for data analysis .
 - IoT devices for real-time data collection.
 
-## Repository Structure
-```plaintext
-smart-solar-parking-lot/
-├── docs/                 # Project reports and presentations
-│   ├── PM_final_project_report.pdf
-│   ├── FINAL_PPT.pdf
-│   └── Solar_Project_Solution.pdf
-├── data/                 # Supporting data files
-│   └── energy_data.xlsx  # Example placeholder
+
 ├── gantt/                # Gantt charts and MSP files
 │   └── project_schedule.mpp
 ├── scripts/              # Analysis or simulation scripts (if any)
